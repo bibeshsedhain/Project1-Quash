@@ -1,4 +1,8 @@
+/*
+simple Shell 
+Author : Bibesh Sedhain
 
+*/
 
 #define _POSIX_C_SOURCE 200809L
 
